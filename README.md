@@ -12,4 +12,4 @@ This SomeContract is a Cadence smart contract showcasing variable and function a
 
 ## Author
 
-Rahul B
+Rishi Bose S
