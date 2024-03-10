@@ -1,4 +1,4 @@
-# FlowResourc
+# FlowResource
 ## Overview
 
 This SomeContract is a Cadence smart contract showcasing variable and function access scopes. It defines a structure with public, contract-scoped, and private variables and functions.
